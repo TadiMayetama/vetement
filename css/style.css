@@ -1,0 +1,76 @@
+
+html{
+    font-size: 62.5%
+}
+body{
+    padding: 0.1rem;
+    background-color: rgb(252, 252, 252);
+}
+
+
+nav{
+    margin : 1rem;
+}
+
+nav ul li, .image, .divp{
+    display: inline-block;
+}
+
+nav ul li{
+    margin: 0 3rem;
+}
+
+h1{
+    font-size: 3.9rem;
+}
+
+h2{
+    font-size: 3rem;
+}
+
+p{
+    font-size: 1.6rem;
+}
+
+nav ul li{
+    font-size: 2.6rem;
+}
+
+h1, h2, nav ul{
+    text-align: center;
+}
+
+article{
+    border: 0.1rem solid grey;
+    margin: 3rem auto;
+    width: 80%;
+    background-color: rgb(202,202,202);
+}
+
+.image, .divp{
+    width: 48%;
+    margin: 0.1rem;
+}
+
+.image>img{
+    width: 70rem;
+}
+
+.divp{
+    vertical-align: top;
+    
+}
+
+footer ul{
+text-align: center;
+float: left;
+font-size: 17px;
+list-style: none;
+text-decoration: none;
+
+}
+
+footer li{
+float: left
+
+}
