@@ -1,0 +1,41 @@
+
+/******* body *******/
+
+h1{
+    font-size: 3.9rem;
+}
+
+h2{
+    font-size: 3rem;
+}
+
+p{
+    font-size: 1.6rem;
+    padding: 0.3rem;
+}
+
+nav ul li{
+    font-size: 2.6rem;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+article{
+    border: 0.1rem solid grey;
+    margin: 3rem auto;
+    width: 80%;
+    background-color: rgb(202,202,202);
+    padding: 0.1rem;
+}
+
+
+.image>img{
+    width: 100%;
+}
+
+.divp{
+    vertical-align: top;
+    padding: 0.1rem;
+}

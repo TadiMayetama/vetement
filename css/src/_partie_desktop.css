@@ -1,0 +1,21 @@
+/********* desktop  ********/
+@media screen and (min-width: 1064px){
+
+    
+
+
+    /******* body *******/
+    .image, .divp{
+        width: 48%;
+        margin: 0.1rem;
+    }
+
+    .image{
+        display: inline-block;
+    }
+
+    .divp{
+        vertical-align: top;
+        padding: 0.3rem;
+    }
+}
