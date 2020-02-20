@@ -1,0 +1,19 @@
+/*********  tablette   *********/
+@media screen and (min-width: 641px){
+    /****** menu *******/
+    nav{
+        width: 99%;
+        margin : 1rem auto;
+    }
+
+    nav ul li{
+        display: inline-block;
+        width: 32%;
+        margin: 0;
+    }
+
+    
+    nav ul li, .divp{
+        display: inline-block;
+    }
+}
